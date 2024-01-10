@@ -3,7 +3,7 @@ import { defineConfig } from 'vite'
 import legacy from '@vitejs/plugin-legacy'
 import copy from 'rollup-plugin-copy'
 import vue from '@vitejs/plugin-vue'
-// https://vitejs.dev/config/
+// https://vitejs.dev/config/ //
 export default defineConfig({
   base: './',
   plugins: [
