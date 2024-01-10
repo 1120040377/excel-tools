@@ -238,6 +238,7 @@ export default {
   .el-radio-button__inner{
     width: 100px;
     height: 32px;
+    overflow: hidden;
   }
 }
 </style>
